@@ -111,7 +111,7 @@ public class MainActivity extends AppCompatActivity {
 
 ## OUTPUT
 
-![326270094-ba21d28e-ca21-49ee-a442-7eb6d61127d0](https://github.com/PRAISEYSOLOMON/graphicsinandroid/assets/119394259/45fb9ba2-2dbc-4356-b47c-f4ee54b9b470)
+![image](https://github.com/PRAISEYSOLOMON/graphicsinandroid/assets/119394259/306b9143-0673-4832-bd4d-fd2eeba1d3c2)
 
 
 ## RESULT
